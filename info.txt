@@ -1,0 +1,5 @@
+Student_id : 2313110153
+Student Name : Thanapiphat Suwanprathep
+Major : IT
+Level : 1
+Faculty : Information Technology
