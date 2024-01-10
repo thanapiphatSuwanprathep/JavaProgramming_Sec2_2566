@@ -1,4 +1,4 @@
 Id : 2313110153
 Name-Surname : Thanapiphat Suwanprathep
-Date : Dec-27-2023
-Topic : Example: Array and Array Method
+Date : jou-10-2023
+Topic : Example: Class and Object
