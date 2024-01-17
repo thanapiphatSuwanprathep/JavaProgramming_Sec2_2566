@@ -1,4 +1,4 @@
 Id : 2313110153
 Name-Surname : Thanapiphat Suwanprathep
-Date : jou-10-2023
-Topic : Example: Class and Object
+Date : jou-17-2023
+Topic : Encapsulation Concept
