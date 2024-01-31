@@ -1,4 +1,4 @@
 Id : 2313110153
 Name-Surname : Thanapiphat Suwanprathep
-Date : jou-24-2023
-Topic  : Composition, Inheritance, and Polymorphism Concep
+Date : jou-31-2023
+Topic  : Composition, Inheritance, and Polymorphism Concept
