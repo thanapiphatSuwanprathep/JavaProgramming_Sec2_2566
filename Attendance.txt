@@ -1,4 +1,4 @@
 Id : 2313110153
 Name-Surname : Thanapiphat Suwanprathep
-Date : 7-fed-2023
-Topic  : :Exception Handling and File
+Date : 14-fed-2023
+Topic  : :In-class lab exercise: Read File & Write File
